@@ -4,9 +4,9 @@
 * The dashboard also provides different information like department wise attrition, no. of employee by age group with the help of graphs.
 * The dashboard has been created using Tableau.
 
-# Screen Shots
+# Screen Shot
 <div>
 <p float="left">
-  <img src="ss.png" width="980" height="500"/>
+  <img src="ss.png" width="980" height="475"/>
 </p>
 </div>
