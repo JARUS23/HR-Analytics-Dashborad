@@ -7,6 +7,6 @@
 # Screen Shot
 <div>
 <p float="left">
-  <img src="ss.png" width="980" height="475"/>
+  <img src="ss.png"/>
 </p>
 </div>
